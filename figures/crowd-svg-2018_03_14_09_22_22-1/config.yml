@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/crowd-svg-2018_03_14_09_22_22-1/crowd-svg-2018_03_14_09_22_22-1.svg
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/6245/articles/292763/master/file/figures/crowd-svg-2018_03_14_09_22_22-1/crowd-svg-2018_03_14_09_22_22-1.svg"
