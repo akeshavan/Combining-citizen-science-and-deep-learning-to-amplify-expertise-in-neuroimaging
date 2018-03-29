@@ -9,5 +9,4 @@ figures/fig_gold
 8alit7j2mk.html
 figures/fig_bdr_dist
 b2euphqp2f8.html
-o98i2bma0c.html
 f4v9bdpqnsg.html
