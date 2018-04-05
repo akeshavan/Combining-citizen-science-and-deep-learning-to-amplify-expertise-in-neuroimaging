@@ -9,6 +9,7 @@ figures/fig_gold
 8alit7j2mk.html
 figures/braindrScreenshot
 vmc5adg1dtg.html
+oshdtb812t.html
 figures/fig_bdr_dist
 b2euphqp2f8.html
 figures/braindr_xgboost_agg
