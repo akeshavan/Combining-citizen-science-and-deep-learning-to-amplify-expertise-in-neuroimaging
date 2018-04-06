@@ -8,14 +8,14 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/output/output.html
-    type: html
+  - path: figures/output/age_gm_effect.png
+    type: static
     from:
     - 1
     - 1
     to:
     - 1
     - 1
-    url: "/users/6245/articles/292763/master/file/figures/output/output.html"
     folder_url: "/users/6245/articles/292763/master/folder/figures/output"
+    url: "/users/6245/articles/292763/master/file/figures/output/age_gm_effect.png"
 export-filename: age_gm_effect.png
