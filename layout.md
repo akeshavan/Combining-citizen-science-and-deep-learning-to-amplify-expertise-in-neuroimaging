@@ -5,6 +5,8 @@ figures/braindrOverview
 1ack0hfd5m.html
 figures/braindr_xgboost_agg1
 ouqnvc978ko.html
+figures/vgg16_results1
+bs1i5natp4o.html
 figures/output
 4oup97tn66o.html
 figures/fig_gold
