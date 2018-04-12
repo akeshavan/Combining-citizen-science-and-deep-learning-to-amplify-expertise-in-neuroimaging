@@ -17,5 +17,4 @@ vmc5adg1dtg.html
 oshdtb812t.html
 figures/fig_bdr_dist
 b2euphqp2f8.html
-figures/braindr_xgboost_agg
 6upo1hvampo.html
