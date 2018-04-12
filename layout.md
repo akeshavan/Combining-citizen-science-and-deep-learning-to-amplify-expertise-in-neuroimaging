@@ -19,5 +19,4 @@ figures/fig_bdr_dist
 b2euphqp2f8.html
 figures/braindr_xgboost_agg
 6upo1hvampo.html
-figures/vgg16_results
 nulgu9jgsno.html
