@@ -9,6 +9,8 @@ figures/vgg16_results1
 bs1i5natp4o.html
 figures/output
 4oup97tn66o.html
+figures/age_gm_effect
+443mb56t97.html
 figures/fig_gold
 8alit7j2mk.html
 figures/braindrScreenshot
