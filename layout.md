@@ -4,8 +4,6 @@ untitled.html
 upa735n5a3.html
 figures/braindrOverview
 h5160verhb.html
-n4f3uceg3bo.html
-8gfplqm8cqo.html
 1ack0hfd5m.html
 figures/braindr_xgboost_agg1
 ouqnvc978ko.html
