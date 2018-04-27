@@ -9,7 +9,6 @@ figures/braindr_xgboost_agg1
 ouqnvc978ko.html
 figures/vgg16_results1
 bs1i5natp4o.html
-4oup97tn66o.html
 figures/age_gm_effect
 443mb56t97.html
 figures/fig_gold
