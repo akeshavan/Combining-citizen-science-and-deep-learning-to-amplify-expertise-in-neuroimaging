@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/braindr_xgboost_agg1/braindr_xgboost_agg1.png
+  - path: figures/braindr_xgboost_agg1/braindr_xgboost_agg.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/6245/articles/292763/master/file/figures/braindr_xgboost_agg1/braindr_xgboost_agg1.png"
     folder_url: "/users/6245/articles/292763/master/folder/figures/braindr_xgboost_agg1"
+    url: "/users/6245/articles/292763/master/file/figures/braindr_xgboost_agg1/braindr_xgboost_agg.png"
