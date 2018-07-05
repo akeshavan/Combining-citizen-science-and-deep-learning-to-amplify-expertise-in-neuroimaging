@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/braindrOverview/braindrOverview.svg
+  - path: figures/braindrOverview/braindrOverview.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/6245/articles/292763/master/file/figures/braindrOverview/braindrOverview.svg"
     folder_url: "/users/6245/articles/292763/master/folder/figures/braindrOverview"
+    url: "/users/6245/articles/292763/master/file/figures/braindrOverview/braindrOverview.png"
